@@ -13,7 +13,7 @@ This is a simple WordPress plugin that adds the current year to elements with th
 <p data-current-year>© Example Website</p>
 ```
 
-Result
+### Result
 ```html
 <p data-current-year>2023</p>
 ```
